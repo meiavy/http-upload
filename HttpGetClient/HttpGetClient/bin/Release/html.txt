@@ -1,0 +1,754 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>亚洲有码区 - bt下载 爱城 bt下载 </title>
+<meta name="keywords" content="亚洲有码区," />
+<meta name="description" content="爱城 bt下载 美女 女优" />
+<link rel='archives' title='bt下载' href='bt/simple' />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.aisex.com/bt/rss.php?fid=4" />
+<LINK href="http://www.uslink.info/thread.css" rel="stylesheet" type="text/css">
+<script language="JavaScript">
+var agt = navigator.userAgent.toLowerCase();
+var is_ie = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+var is_gecko= (navigator.product == "Gecko");
+var imgpath = 'image';
+if (location.href.indexOf('/simple/')!=-1) {
+	getObj('headbase').href = location.href.substr(0,location.href.indexOf('/simple/')+1);
+} else if (location.href.indexOf('.html')!=-1) {
+	var base = location.href.replace(/^(http(s)?:\/\/(.*?)\/)[^\/]*\/[0-9]+\/[0-9]{4,6}\/[0-9]+\.html$/i,'$1');
+	if (base!=location.href) {
+		getObj('headbase').href = base;
+	}
+}
+function getObj(id){
+	return document.getElementById(id);
+}
+function ietruebody(){
+	return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body;
+}
+function IsElement(id){
+	return document.getElementById(id)!=null ? true : false;
+}
+</script>
+</head>
+<body onkeydown="keyCodes(event);">
+<div id="wrapA">
+
+<div id="header">
+<div class="toptool tar">
+	<span>
+	<a href="simple/" target="_blank">无图版</a>
+
+	| <a href="faq.php">帮助</a>
+	| <a href="index.php">论坛首页</a>
+	</span>
+</div>
+<table cellspacing="0" cellpadding="0" align="center" width="100%">
+<tr>
+	<td class="banner"><a href="./"></a></td>
+	<td class="banner" id="banner" align="right"></td>
+</tr>
+<tr><td align="center" height="1" colspan="2"></td></tr>
+</table>
+<div id="h_guide" class="guide" colspan="2"><span class="s3">&raquo;</span>
+
+	您尚未　<a href="login.php">登录</a> &nbsp;<a href="register.php"><b>注册</b></a>
+
+	| <a href="push.php?fid=4">推荐</a>
+	| <a href="search.php">搜索</a>
+
+</div>
+<div id="menu_hack" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">社区服务</th></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=bank">银行</a></td></tr>
+
+	<tr><td class="f_one"><a href="hack.php?H_name=invite">邀请注册</a></td></tr>
+
+</table></div>
+<div id="menu_skin" class="menu" style="display:none;"><table width="120" cellspacing="1" cellpadding="5">
+	<tr><th class="h">风格切换</th></tr>
+
+	<tr><td class="f_one"><a href="/bt/thread.php?fid=4&skinco=new3">new3</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bt/thread.php?fid=4&skinco=wind5">wind5</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bt/thread.php?fid=4&skinco=wind">wind</a></td></tr>
+
+	<tr><td class="f_one"><a href="/bt/thread.php?fid=4&skinco=new5">new5</a></td></tr>
+
+</table></div>
+
+</div>
+<div id="main">
+
+
+<div class="t3" style="margin:8px auto"><table width="100%" cellspacing="0" cellpadding="0" align="center">
+	<tr><td>
+	<strong class="fl w"><img src="image/wind/index/home.gif" align="absmiddle" /> <a href="index.php">bt下载</a> &raquo; <a href="thread.php?fid=4">亚洲有码区</a> <a href="rss.php?fid=4" target="_blank" title="RSS订阅本版面最新帖子"></a></strong>
+	<div class="fr w">
+
+		<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1993267234&site=qq&menu=yes"><font color=red size=5>纯情美女QQ裸聊[可验证]</font></a>
+
+		</div>
+	</td></tr>
+</table></div>
+
+<!--ads begin-->
+
+<!--ads end-->
+
+<div class="c"></div>
+
+<div class="t3"><table width="100%" align="center" cellspacing="0" cellpadding="0">
+	<tr><td align="left" valign="middle"><div class="fl"><div class="pages"><a href="/bt/thread.php?fid=4&page=1" style="font-weight:bold">&laquo;</a><b> 1 </b><a href="/bt/thread.php?fid=4&page=2">2</a><a href="/bt/thread.php?fid=4&page=3">3</a><a href="/bt/thread.php?fid=4&page=4">4</a><a href="/bt/thread.php?fid=4&page=5">5</a><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread.php?fid=4&page='+this.value+'';return false;}"><a href="/bt/thread.php?fid=4&page=820" style="font-weight:bold">&raquo;</a> Pages: ( 1/820 total ) </div></div></td>
+	<td style="text-align:right">
+
+	<a href="post.php?fid=4">发新帖</a>
+
+	</td>
+	</tr>
+</table></div>
+
+<div id="menu_post" class="menu tac f14" style="display:none;">
+	<ul style="width:99px">
+
+	<li><a href="post.php?fid=4">新  帖</a></li>
+
+	</ul>
+</div>
+
+
+<div class="t z" style="margin:3px auto"><table cellspacing="0" cellpadding="0" width="100%" id="ajaxtable">
+	<tr><th class="h" colspan="6">
+		<div class="fr"><a class="a2 fn" href="thread.php?fid=4">全部</a> <a class="a2 fn" href="thread.php?fid=4&search=digest">精华</a>
+
+		</div>
+	<a href="thread.php?fid=4" class="fl">亚洲有码区</a>
+		</th>
+	</tr>
+	<tbody style="table-layout:fixed;"><tr></tr>
+	<tr class="tr2">
+	<td class="tac y-style">状态</td>
+	<td style="width:56%" class="tac">文章</td>
+	<td style="width:10%" class="y-style">作者</td>
+	<td style="width:6%" class="y-style">回复</td>
+	<td style="width:6%" class="y-style">人气</td>
+	<td style="width:17%" class="y-style">最后发表</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/0910/371217.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_371217"> 
+
+
+	
+
+	<h3><a href="htm_data/4/0910/371217.html" id="a_ajax_371217" target=_blank><font color=red>= = = = = = = = 版规 = = = = = = = =</font></a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=371217&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=371217&page=2&fpage=1">2</a> <a href="/bt/read.php?tid=371217&page=3&fpage=1">3</a> <a href="/bt/read.php?tid=371217&page=4&fpage=1">4</a> <a href="/bt/read.php?tid=371217&page=5&fpage=1">5</a> .. <a href="/bt/read.php?tid=371217&page=96&fpage=1">96</a></span> ]
+
+	</td>
+	<td class="tal y-style">aisex999
+		<div class="f10">2009-10-25</div></td>
+	<td class="tal f10 y-style">950</td>
+	<td class="tal f10 y-style">370221</td>
+	<td class="tal y-style"><a class="f10"> 2013-04-20 02:32 </a><br />by: jiale11149</td>
+	</tr>
+
+	<tr class="tr2"><td colspan="6" class="tac" style="border-top:0">普通主题</td></tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565836.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565836"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565836.html" id="a_ajax_565836" target=_blank>[AVI/986MB]170CM長身辣妹葛木 逆襲 騎乘激烈腰振的性感模樣</a></h3>  
+
+
+	
+
+	</td>
+	<td class="tal y-style">樹下涼
+		<div class="f10">2013-05-24</div></td>
+	<td class="tal f10 y-style">2</td>
+	<td class="tal f10 y-style">27</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 03:24 </a><br />by: opmuf1</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565826.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565826"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565826.html" id="a_ajax_565826" target=_blank>[MPG/586MB]制服美少女 VOL.2 一代經典女優金沢文子中古片</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">樹下涼
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal f10 y-style">67</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 02:18 </a><br />by: sermo</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565825.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565825"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565825.html" id="a_ajax_565825" target=_blank>[MPG/593MB]Ｈ秘書的性癖 一代經典女優金沢文子中古片</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">樹下涼
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal f10 y-style">56</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 02:18 </a><br />by: sermo</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565808.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565808"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565808.html" id="a_ajax_565808" target=_blank>TYOD-191女が腰を振るほうがいいに決まってる。 竹内紗里奈</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">维纳斯
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">4</td>
+	<td class="tal f10 y-style">46</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 02:19 </a><br />by: sermo</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565807.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565807"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565807.html" id="a_ajax_565807" target=_blank>RBD-445 あなた、&#65533;して…。-思い出迷子- 愛田奈々</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">维纳斯
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal f10 y-style">56</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 02:19 </a><br />by: sermo</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565798.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565798"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565798.html" id="a_ajax_565798" target=_blank>地铁上的大波女</a></h3>  
+
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565798&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565798&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">et7718
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal f10 y-style">140</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 03:28 </a><br />by: bboyflashy</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565794.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565794"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565794.html" id="a_ajax_565794" target=_blank>絲襪美腿熟女</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">连裤袜
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal f10 y-style">66</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 02:20 </a><br />by: sermo</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565784.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565784"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565784.html" id="a_ajax_565784" target=_blank>170CM長身熟女和希優子7部經典大合集</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565784&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565784&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">樹下涼
+		<div class="f10">2013-05-23</div></td>
+	<td class="tal f10 y-style">13</td>
+	<td class="tal f10 y-style">115</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:21 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565778.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565778"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565778.html" id="a_ajax_565778" target=_blank>[AVI+RMVB/12.70GB]一代妖姬倖田梨紗10片合集</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565778&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565778&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">樹下涼
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">18</td>
+	<td class="tal f10 y-style">236</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:21 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565777.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565777"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565777.html" id="a_ajax_565777" target=_blank>新&#12539;母子相姦遊戲13 to 20</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565777&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565777&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">14</td>
+	<td class="tal f10 y-style">190</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:21 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565776.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565776"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565776.html" id="a_ajax_565776" target=_blank>新&#12539;母子相姦遊戲21 to 24</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal f10 y-style">113</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:21 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565775.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565775"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565775.html" id="a_ajax_565775" target=_blank>母子相姦遊戯22 to 30</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal f10 y-style">98</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:20 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565774.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565774"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565774.html" id="a_ajax_565774" target=_blank>新&#12539;母子相姦遊戲26 to 30</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal f10 y-style">100</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:20 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565773.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565773"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565773.html" id="a_ajax_565773" target=_blank>新近親遊戯 1 to 10</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal f10 y-style">119</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:20 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565772.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565772"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565772.html" id="a_ajax_565772" target=_blank>新&#12539;母子相姦遊戲41 to 50</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">105</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:20 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565771.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565771"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565771.html" id="a_ajax_565771" target=_blank>新&#12539;母子相姦遊戲51 to 60</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">91</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:20 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565770.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565770"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565770.html" id="a_ajax_565770" target=_blank>新&#12539;母子相姦遊戲31 to 40</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">122</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:19 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565764.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565764"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565764.html" id="a_ajax_565764" target=_blank>新近親遊戯21 to 30</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">7</td>
+	<td class="tal f10 y-style">101</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:19 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565763.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565763"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565763.html" id="a_ajax_565763" target=_blank>新&#12539;母子相姦遊戯1 to 5</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">118</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:19 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565762.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565762"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565762.html" id="a_ajax_565762" target=_blank>近親相姦遊戯大合集 part 3</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal f10 y-style">127</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:19 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565761.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565761"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565761.html" id="a_ajax_565761" target=_blank>近親相姦遊戯大合集 part 2</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal f10 y-style">94</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:18 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565760.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565760"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565760.html" id="a_ajax_565760" target=_blank>近親相姦遊戯大合集 part 1</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">8</td>
+	<td class="tal f10 y-style">132</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:18 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565759.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565759"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565759.html" id="a_ajax_565759" target=_blank>母の安産型爆尻 加藤英子</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565759&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565759&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">10</td>
+	<td class="tal f10 y-style">167</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:13 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565758.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565758"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565758.html" id="a_ajax_565758" target=_blank>近親相姦 たかし、スケベなお母さんでごめんね…。 竹下千晶</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">wzp8355
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">116</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:09 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565757.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565757"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565757.html" id="a_ajax_565757" target=_blank>[AVI]5-13 新作22連發</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">coolkyanyi
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">5</td>
+	<td class="tal f10 y-style">130</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:08 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565756.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565756"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565756.html" id="a_ajax_565756" target=_blank>[ac65][AVI]5-19 新作24連發的补种</a></h3>  
+
+	
+
+	</td>
+	<td class="tal y-style">coolkyanyi
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">6</td>
+	<td class="tal f10 y-style">154</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:06 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565755.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565755"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565755.html" id="a_ajax_565755" target=_blank>[ac65][AVI]5-19 新作24連發</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565755&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565755&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">coolkyanyi
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal f10 y-style">349</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-24 01:06 </a><br />by: 情迷美腿</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565742.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565742"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565742.html" id="a_ajax_565742" target=_blank>爷爷和孙女</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565742&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565742&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">et7718
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">17</td>
+	<td class="tal f10 y-style">294</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-23 03:02 </a><br />by: mr.jian</td>
+	</tr>
+
+	<tr align="center" class="tr3 t_one"><td><a title="打开新窗口" href="htm_data/4/1305/565740.html" target="_blank"></a></td><td style="text-align:left;padding-left:8px" id="td_565740"> 
+
+	
+
+	<h3><a href="htm_data/4/1305/565740.html" id="a_ajax_565740" target=_blank>(STYLE-N)(STYN-004)淫乱撫子 4 竹内紗里奈</a></h3>  
+
+	 [ <span style="font-size:7pt;font-family:verdana;"> <a href="/bt/read.php?tid=565740&page=1&fpage=1">1</a> <a href="/bt/read.php?tid=565740&page=2&fpage=1">2</a></span> ]
+
+	</td>
+	<td class="tal y-style">参谋长
+		<div class="f10">2013-05-22</div></td>
+	<td class="tal f10 y-style">13</td>
+	<td class="tal f10 y-style">189</td>
+	<td class="tal y-style"><a class="f10"> 2013-05-23 01:45 </a><br />by: wwll</td>
+	</tr>
+
+	<tr><td colspan="6" class="f_one" style="height:8px"></td></tr>
+	</tbody>
+</table></div>
+
+<div class="t"><table style="padding:5px; margin-bottom:2px" class="f_two" cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr>
+		<td>
+		<form action="thread.php?fid=4&page=1" method="post">
+		<select name="search">
+			<option value=""></option>
+			<option value="digest">本版精华区</option>
+			<option value="1">1天内的主题</option>
+			<option value="2">2天内的主题</option>
+			<option value="7">1星期内的主题</option>
+			<option value="30">1个月内的主题</option>
+			<option value="60">2个月内的主题</option>
+			<option value="90">3个月内的主题</option>
+			<option value="180">6个月内的主题</option>
+			<option value="365">1年内的主题</option>
+		</select>
+
+		<input class="btn" type="button" value="提 交" onclick="this.form.submit();">
+		</form>
+		</td>
+		<td align="right">
+		<form name="jump" method="post">
+		<a class="abtn f_two" href="profile.php?action=forumright&fid=4" title="查看您在本版块的权限">版块权限查看</a>
+		<a class="abtn f_two" onclick="sendmsg('pw_ajax.php?action=readlog','',this.id);" id="readlog">帖子浏览记录</a>
+		<a class="abtn f_two" id="threadlog" onclick="sendmsg('pw_ajax.php','action=threadlog',this.id);">版块浏览记录</a>
+		<select onchange="Fjump(this.options[this.selectedIndex].value)">
+		<option value="" selected>快速跳至</option>
+<option value="3">>> 发片区</option>
+<option value="16"> &nbsp;|- 亚洲无码区</option>
+<option value="4"> &nbsp;|- 亚洲有码区</option>
+<option value="5"> &nbsp;|- 欧美区</option>
+<option value="18"> &nbsp;|- 在线影院区</option>
+<option value="11"> &nbsp;|- 游戏区</option>
+<option value="6"> &nbsp;|- 动漫区</option>
+<option value="12"> &nbsp;|- 国产影视剧(非色情)</option>
+<option value="19"> &nbsp;|- 3D影视区</option>
+<option value="13">>> 贴图区</option>
+<option value="14"> &nbsp;|- 亚洲贴图区</option>
+<option value="15"> &nbsp;|- 欧美贴图区</option>
+<option value="7">>> 技术交流区</option>
+<option value="8"> &nbsp;|- 技术交流区</option>
+<option value="9"> &nbsp;|- 求片区</option>
+<option value="10"> &nbsp;|- 灌水区</option>
+
+		</select>
+		</form>
+		</td>
+	</tr>
+</table></div>
+<div class="t3"><table cellspacing="0" cellpadding="0" width="100%" align="center">
+	<tr valign="top">
+		<td align="left"><div class="pages"><a href="/bt/thread.php?fid=4&page=1" style="font-weight:bold">&laquo;</a><b> 1 </b><a href="/bt/thread.php?fid=4&page=2">2</a><a href="/bt/thread.php?fid=4&page=3">3</a><a href="/bt/thread.php?fid=4&page=4">4</a><a href="/bt/thread.php?fid=4&page=5">5</a><input type="text" size="3" onkeydown="javascript: if(event.keyCode==13){ location='thread.php?fid=4&page='+this.value+'';return false;}"><a href="/bt/thread.php?fid=4&page=820" style="font-weight:bold">&raquo;</a> Pages: ( 1/820 total ) </div></td>
+	<td style="text-align:right;padding-top:5px">
+	
+
+	<a href="post.php?fid=4">发新帖</a>
+
+	</td>
+	</tr>
+</table></div>
+
+<center>
+ 开放主题  热门主题  锁定主题  关闭主题 投票主题  锁定投票
+</center><br />
+<script language="JavaScript">
+var ifcheck = true;
+var fid = '4';
+function CheckAll(form){
+	for(var i=0;i<form.elements.length-12;i++){
+		var e = form.elements[i];
+		if(e.type=='checkbox') e.checked = ifcheck;
+	}
+	ifcheck = ifcheck == true ? false : true;
+}
+function Fjump(value){
+	if(value!=''){
+		window.location=('http://www.aisex.com/bt/thread.php?fid='+value);
+	}
+}
+function Ajump(value){
+	if(value!= ''){
+		window.location=('http://www.aisex.com/bt/profile.php?action=show&username='+value);
+	}
+}
+var totalpage = parseInt('820');
+var page = parseInt('1');
+if(totalpage > 1){
+	document.onkeydown=function(e){
+		var e = is_ie ? window.event : e;
+		var tagname = is_ie ? e.srcElement.tagName : e.target.tagName;
+		if(tagname == 'INPUT' || tagname == 'TEXTAREA'){
+			return;
+		}
+		actualCode = e.keyCode ? e.keyCode : e.charCode;
+		if(actualCode == 39 && page<totalpage) {
+			window.location = 'thread.php?fid=4&search=&page=' + (page+1);
+		}
+		if(actualCode == 37 && page>1){
+			window.location = 'thread.php?fid=4&search=&page=' + (page-1);
+		}
+	}
+}
+</script>
+<script type="text/javascript" language="JavaScript" src="js/pw_ajax.js"></script>
+
+
+</div>
+<div id="bottom"></div><br />
+<center class="gray">
+<small><span id="windspend"></span> <br />
+</small>
+</center><br />
+<div id="footer">
+	<span class="f12 fl"></span><a href="">Contact us</a> | <a href="wap/index.php">Wap</a> | <a href="javascript:scroll(0,0)">Top</a>
+
+</div>
+</div>
+</body></html>
+<script language="JavaScript" src="js/global.js"></script>
+<script language="JavaScript">
+var openmenu = {'td_hack' : 'menu_hack','td_skin' : 'menu_skin','td_post' : 'menu_post','td_post1' : 'menu_post'};
+read.InitMenu();
+</script>
+

@@ -1,0 +1,14 @@
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Debug\HttpGetClient.exe.config
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Debug\HttpGetClient.exe
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Debug\HttpGetClient.pdb
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Debug\CryptAPI.dll
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\MainWindow.baml
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\MainWindow.g.cs
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\App.g.cs
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient_MarkupCompile.cache
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.g.resources
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.Properties.Resources.resources
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.csproj.GenerateResource.Cache
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.exe
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.pdb
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Debug\HttpGetClient.csprojResolveAssemblyReference.cache

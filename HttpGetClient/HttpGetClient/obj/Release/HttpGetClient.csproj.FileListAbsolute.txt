@@ -1,0 +1,13 @@
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Release\HttpGetClient.exe.config
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Release\HttpGetClient.exe
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Release\HttpGetClient.pdb
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\bin\Release\CryptAPI.dll
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\MainWindow.baml
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\MainWindow.g.cs
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\App.g.cs
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient_MarkupCompile.cache
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient.g.resources
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient.Properties.Resources.resources
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient.csproj.GenerateResource.Cache
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient.exe
+E:\work\codes\http-upload\HttpGetClient\HttpGetClient\obj\Release\HttpGetClient.pdb
